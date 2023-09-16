@@ -1,6 +1,6 @@
 ## People
 
-* [Yeongjin Kim](https://github.com/kyj950514 "김영진")
+* [Yeongjin Kim](https://github.com/youngjeanskr "김영진")
 * [Heewon Seo](https://github.com/heewonsuhh "서희원")
 
 ## Language / IDE
